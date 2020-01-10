@@ -1,11 +1,13 @@
-#Hiring and Inspiring a Great Team
+# Hiring and Inspiring a Great Team
+
 Management gets a bad rap in technical circles, and for good reason: many managers are terrible, and it shows!
 
 Rising above the pointy-haired-boss stereotypes is easier than you might think. By grounding your leadership style in management science, and adding a touch of emotional intelligence, you can help your team meet its individual and collective goals, improve morale and engagement, and reduce turnover.
 
 This session will show early-career managers how to find team players aligned with their core values, how to "design the alliance" with new hires, how to get the most out of 1:1s, and how to use personality-typing tools like DISC to motivate and communicate effectively.
 
-##Resources
+## Resources
+
 [The Ideal Team Player, by Patric Lencioni](https://www.amazon.com/Ideal-Team-Player-Recognize-Cultivate-ebook/dp/B01B6AEJJ0)
 
 [Hiring Team Players: an Interview Guide](https://www.tablegroup.com/imo/media/doc/IdealTeamPlayerINTERVIEWQUESTIONS(11)singlepages.pdf)
