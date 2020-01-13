@@ -12,6 +12,8 @@ This session will show early-career managers how to find team players aligned wi
 
 [Hiring Team Players: an Interview Guide](https://www.tablegroup.com/imo/media/doc/IdealTeamPlayerINTERVIEWQUESTIONS(11)singlepages.pdf)
 
+[3 Traits of Team Players](https://business.linkedin.com/talent-solutions/blog/recruiting-tips/2017/the-3-traits-of-great-team-players-and-how-to-recruit-for-them)
+
 [Design the Alliance](https://www.anneloehr.com/2017/12/14/managers-do-this-first/)
 
 [2019 State of 1:1s Report](https://soapboxhq.com/state-of-one-on-ones-report)
