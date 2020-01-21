@@ -6,9 +6,12 @@ Rising above the pointy-haired-boss stereotypes is easier than you might think. 
 
 This session will show early-career managers how to find team players aligned with their core values, how to "design the alliance" with new hires, how to get the most out of 1:1s, and how to use personality-typing tools like DISC to motivate and communicate effectively.
 
+## Presentation
+[Powerpoint presentation](https://github.com/spetryjohnson/Talk---Hiring--Firing--and-Inspiring/blob/master/Hiring%2C%20Firing%2C%20and%20Inspiring.pptx) - You'll probably want to watch in slideshow mode because of all the animations
+
 ## Resources
 
-[The Ideal Team Player, by Patric Lencioni](https://www.amazon.com/Ideal-Team-Player-Recognize-Cultivate-ebook/dp/B01B6AEJJ0)
+[The Ideal Team Player, by Patrick Lencioni](https://www.amazon.com/Ideal-Team-Player-Recognize-Cultivate-ebook/dp/B01B6AEJJ0)
 
 [Hiring Team Players: an Interview Guide](https://www.tablegroup.com/imo/media/doc/IdealTeamPlayerINTERVIEWQUESTIONS(11)singlepages.pdf)
 
